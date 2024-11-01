@@ -1,0 +1,6 @@
+openai 
+flask 
+requests 
+streamlit
+python-dotenv
+flask-cors
